@@ -1,0 +1,6 @@
+fish
+unzip
+python3-pip
+neovim
+apt-transport-https
+curl
